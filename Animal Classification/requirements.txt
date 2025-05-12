@@ -1,4 +1,0 @@
-tensorflow
-gradio
-pillow
-keras
