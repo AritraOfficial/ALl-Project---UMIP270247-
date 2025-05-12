@@ -235,3 +235,9 @@ For queries or collaborations, feel free to connect:
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Thank%20You%20Unified%20Mentor%20Pvt.%20Ltd.-purple?style=for-the-badge&logo=Handshake&logoColor=white" />
+</p>
