@@ -1,10 +1,13 @@
 <h1 align="center">🚀 Unified Mentor Internship Projects</h1>
 
-<p align="center"><strong>Internship Details</strong></p>
 <p align="center">
-  <strong>Position:</strong> Machine Learning Intern &nbsp; | &nbsp;
-  <strong>Name:</strong> Aritra Mukherjee &nbsp; | &nbsp;
-  <strong>ID:</strong> UMIP270247
+  <img src="https://img.shields.io/badge/-Internship%20Details-1DA1F2?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Position-Machine%20Learning%20Intern-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Name-Aritra%20Mukherjee-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/ID-UMIP270247-orange?style=flat-square" />
 </p>
 
 ---
@@ -15,16 +18,17 @@
 
 ---
 
-## 📊 Projects Overview
+## 🚧 Projects Overview
 
-| S.No | Project Name               |
-|------|----------------------------|
-|  1   | Animal Classification      |
-|  2   | Forest Cover Prediction    |
-|  3   | Heart Disease Prediction   |
-|  4   | Mobile Phone Pricing       |
-|  5   | Thyroid Cancer Detection   |
-|  6   | Vehicle Price Prediction   |
+| 🔢 S.No | 🧠 Project Name                |
+|--------:|-------------------------------|
+| ①       | ✅ **Animal Classification**      |
+| ②       | 🌲 **Forest Cover Prediction**    |
+| ③       | ❤️ **Heart Disease Prediction**   |
+| ④       | 📱 **Mobile Phone Pricing**       |
+| ⑤       | 🧬 **Thyroid Cancer Detection**   |
+| ⑥       | 🚗 **Vehicle Price Prediction**   |
+
 
 ---
 
